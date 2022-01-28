@@ -13,6 +13,8 @@
 		E83DD13227444D25006AE50B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E83DD13027444D25006AE50B /* Main.storyboard */; };
 		E83DD13427444D26006AE50B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E83DD13327444D26006AE50B /* Assets.xcassets */; };
 		E83DD13727444D26006AE50B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E83DD13527444D26006AE50B /* LaunchScreen.storyboard */; };
+		E83DD13F27446560006AE50B /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83DD13E27446560006AE50B /* Capital.swift */; };
+		E83DD1432745551F006AE50B /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83DD1422745551F006AE50B /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		E83DD13327444D26006AE50B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E83DD13627444D26006AE50B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E83DD13827444D27006AE50B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E83DD13E27446560006AE50B /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
+		E83DD1422745551F006AE50B /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				E83DD12A27444D25006AE50B /* AppDelegate.swift */,
 				E83DD12C27444D25006AE50B /* SceneDelegate.swift */,
 				E83DD12E27444D25006AE50B /* ViewController.swift */,
+				E83DD1422745551F006AE50B /* DetailViewController.swift */,
+				E83DD13E27446560006AE50B /* Capital.swift */,
 				E83DD13027444D25006AE50B /* Main.storyboard */,
 				E83DD13327444D26006AE50B /* Assets.xcassets */,
 				E83DD13527444D26006AE50B /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 			files = (
 				E83DD12F27444D25006AE50B /* ViewController.swift in Sources */,
 				E83DD12B27444D25006AE50B /* AppDelegate.swift in Sources */,
+				E83DD1432745551F006AE50B /* DetailViewController.swift in Sources */,
+				E83DD13F27446560006AE50B /* Capital.swift in Sources */,
 				E83DD12D27444D25006AE50B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
